@@ -14,7 +14,7 @@ Your Question
 Convert to Vector
       |
       v
-Search FAISS -> Top 3 Relevant Chunks
+Search FAISS
       |
       v
 Send (Question + Chunks) to Groq LLM
