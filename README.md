@@ -25,10 +25,9 @@ Get Answer
 
 
 ## Models and Tools
-
-| Tool | Purpose |
-|---|---|
-| Sentence Transformers | Convert text to vectors |
-| FAISS | Store and search vectors |
-| Groq LLaMA3 | Generate answers |
-| Python | Main language |
+| Tool | Purpose | Why |
+|---|---|---|
+| Sentence Transformers | Convert text to vectors | Captures meaning not just keywords |
+| FAISS | Store and search vectors | Fast similarity search by Meta |
+| Groq LLaMA3 | Generate answers | Free and extremely fast LLM |
+| Python 3.10 | Main language | Clean and simple code |
