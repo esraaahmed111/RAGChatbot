@@ -1,4 +1,4 @@
-# RAG Chatbot — Read Text Files & Answer Questions
+# RAG Chatbot Read Text Files & Answer Questions
 
 An intelligent chatbot that reads your own text files and answers
 questions about them using Retrieval Augmented Generation (RAG).
