@@ -1,5 +1,4 @@
 # RAG Chatbot Read Text Files & Answer Questions
-
 An intelligent chatbot that reads your own text files and answers
 questions about them using Retrieval Augmented Generation (RAG).
 It combines FAISS vector search with the Groq LLaMA3 language model
@@ -14,7 +13,7 @@ Your Question
 Convert to Vector
       |
       v
-Search FAISS -> Top 3 Relevant Chunks
+Search FAISS
       |
       v
 Send (Question + Chunks) to Groq LLM
@@ -22,7 +21,6 @@ Send (Question + Chunks) to Groq LLM
       v
 Get Answer
 ```
-
 
 ## Models and Tools
 | Tool | Purpose |
