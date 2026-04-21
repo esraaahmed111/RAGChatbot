@@ -2,7 +2,7 @@
 # pip install groq faiss-cpu sentence-transformers numpy matplotlib
 
 
-# Imports
+# Import libraries
 import os
 import glob
 import numpy as np
